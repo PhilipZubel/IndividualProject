@@ -1,10 +1,9 @@
 # Timelog
 
-* Predicting future associations of drugs, diseases and more using literature-based knowledge discovery
-* Philip Zubel
-* 2479229z
-* Jake Lever
-
+* PROJECT NAME: Predicting future associations of drugs, diseases and more using literature-based knowledge discovery
+* NAME: Philip Zubel
+* STUDENT_ID: 2479229z
+* SUPERVISOR NAME: Jake Lever
 
 ## Week 2
 
