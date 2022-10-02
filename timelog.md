@@ -15,3 +15,8 @@
 ## 29 Sep 2022
 
 * *1 hour* set up repository acccording to guidelines
+
+## 02 Oct 2022
+
+* *2.5 hours* read  [LION LBD: a literature-based discovery system for cancer biology (2019)](https://academic.oup.com/bioinformatics/article/35/9/1553/5124276) 
+* *0.5 hours* prepare for meeting + writing status report including architecture design
