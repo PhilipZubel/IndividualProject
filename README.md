@@ -1,3 +1,3 @@
 # Individual Project - Philip Zubel
 
-## **Predicting future associations of drugs, diseases and more using literature-based knowledge discovery**
+## **Alexa Taskbot Challenge 2**
