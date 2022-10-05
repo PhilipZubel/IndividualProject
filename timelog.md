@@ -2,12 +2,15 @@
 
 * PROJECT NAME: Alexa Taskbot Challenge 2
 * NAME: Philip Zubel
-* STUDENT_ID: 2479229z
+* STUDENT ID: 2479229z
 * SUPERVISOR NAME: Jeff Dalton
 
 ## Week 2
 
+### 01 Oct 2022
+
+* *1hours* set up repository 
+
 ### 04 Oct 2022
 
-* *2 hours* read research paper [GRILLBot: A flexible conversational agent for solving
-complex real-world tasks](https://assets.amazon.science/7c/99/e7a8d35a43c88cf0e8ad59b92dfc/grillbot-a-flexible-conversational-agent-for-solving-complex-real-world-tasks.pdf) 
+* *2 hours* read research paper [GRILLBot: A flexible conversational agent for solving complex real-world tasks](https://assets.amazon.science/7c/99/e7a8d35a43c88cf0e8ad59b92dfc/grillbot-a-flexible-conversational-agent-for-solving-complex-real-world-tasks.pdf) 
