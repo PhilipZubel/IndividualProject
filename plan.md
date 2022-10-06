@@ -5,8 +5,6 @@
 * 2479229z
 * Jeff Dalton
 
-Week-by-week plan for the whole project. Update this as you go along.
-
 ## Winter semester
 
 * **Week 1** - Topic not known yet.
