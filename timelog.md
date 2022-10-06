@@ -24,3 +24,4 @@
 ### 06 Oct 2022
 * *1 hour* - introductory meeting with the Alexa TaskBot team
 * *1 hour* - intial meeting with Jeff
+* *1 hour* - reedited minutes from meeting and set up private project kanban dashboard
