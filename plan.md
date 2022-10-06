@@ -1,17 +1,17 @@
 # Plan
 
-* PROJECT TITLE
-* YOUR NAME
-* STUDENT ID
-* SUPERVISOR NAME
+* Alexa Taskbot Challenge 2
+* Philip Zubel
+* 2479229z
+* Jeff Dalton
 
 Week-by-week plan for the whole project. Update this as you go along.
 
 ## Winter semester
 
-* **Week 1**
-* **Week 2**
-* **Week 3**
+* **Week 1** - Topic not known yet.
+* **Week 2** - I set up the github repository workflow/required documents.
+* **Week 3** - I had initial advisor and team meetings. I also did background research on the GrillBot - the product I will be enhancing.
 * **Week 4**
 * **Week 5**
 * **Week 6**
