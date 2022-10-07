@@ -9,7 +9,7 @@
 
 ### 01 Oct 2022
 
-* *1hour* - set up repository 
+* *1 hour* - set up repository 
 
 ## Week 3
 
@@ -25,3 +25,6 @@
 * *1 hour* - introductory meeting with the Alexa TaskBot team
 * *1 hour* - intial meeting with Jeff
 * *1 hour* - reedited minutes from meeting and set up private project kanban dashboard
+
+### 07 Oct 2022
+* *2 hours* - read research paper [MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound](https://github.com/PhilipZubel/IndividualProject/issues/6)
