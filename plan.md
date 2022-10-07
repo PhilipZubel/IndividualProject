@@ -9,7 +9,7 @@
 
 * **Week 1** - Topic not known yet.
 * **Week 2** - I set up the github repository workflow/required documents.
-* **Week 3** - I had initial advisor and team meetings. I also did background research on the GrillBot - the product I will be enhancing.
+* **Week 3** - I had initial advisor and team meetings. I did background research on GrillBot and read introductory research papers.
 * **Week 4**
 * **Week 5**
 * **Week 6**
