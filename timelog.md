@@ -33,3 +33,6 @@
 ### 08 Oct 2022
 * *2 hours* - read research paper [Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs](https://github.com/PhilipZubel/IndividualProject/issues/5)
 * *0.5 hours* - wrote python program which calculates the total time spent on the dissertation according to the timelog
+
+### 09 Oct 2022
+* *1 hour* - read research paper [What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://github.com/PhilipZubel/IndividualProject/issues/7)
