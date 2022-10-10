@@ -8,7 +8,10 @@ assignees: PhilipZubel
 ---
 
 ## What is the research paper/tutorial link?
-Add link [here](...)
+-  [name](link)
 
-## What is it about?
+## Quick Summary
 A clear and concise description of what you learned
+
+## Notes
+Project notes
