@@ -36,3 +36,6 @@
 
 ### 09 Oct 2022
 * *1 hour* - read research paper [What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://github.com/PhilipZubel/IndividualProject/issues/7)
+
+### 10 Oct 2022
+* *1 hour* - read research paper [QA-GNN: Reasoning with LM and KG for Question Answering](https://github.com/PhilipZubel/IndividualProject/issues/9)
