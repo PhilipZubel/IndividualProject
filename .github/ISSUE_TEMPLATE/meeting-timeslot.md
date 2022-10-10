@@ -7,10 +7,7 @@ assignees: PhilipZubel
 
 ---
 
-## Meeting main topics
-Describe the main themes of the meeting.
-- topic 1
-- topic 2
+## Describe the main themes of the meeting
 
-## Goals/tasks needed to add
-Describe the aims/duties which need to be achieved
+
+## Describe the aims/goals which need to be achieved
