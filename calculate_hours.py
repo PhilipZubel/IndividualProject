@@ -1,3 +1,6 @@
+# Author:
+#    Philip Zubel - 07 Oct 2022
+
 # This python script returns the total hours spent on the dissertation according to the timeline
 import re
 
