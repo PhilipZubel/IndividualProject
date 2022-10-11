@@ -39,3 +39,7 @@
 
 ### 10 Oct 2022
 * *1 hour* - read research paper [QA-GNN: Reasoning with LM and KG for Question Answering](https://github.com/PhilipZubel/IndividualProject/issues/9)
+
+
+### 12 Oct 2022
+* *2.5 hours* - [team meeting](https://github.com/PhilipZubel/IndividualProject/issues/4) 
