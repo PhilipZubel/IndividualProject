@@ -1,7 +1,7 @@
 
 ## *[title]* 
-#### *[name]* 
-#### *[student id]* 
+#### *Philip Zubel* 
+#### *2479229z* 
 
 ## Proposal
 ### Motivation
