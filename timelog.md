@@ -28,7 +28,7 @@
 
 ### 07 Oct 2022
 * *2 hours* - read research paper [MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound](https://github.com/PhilipZubel/IndividualProject/issues/6)
-* *0.5 hours* -played around with [Open Assistant Toolkit for Alexa](https://github.com/PhilipZubel/IndividualProject/issues/8)
+* *0.5 hours* - played around with [Open Assistant Toolkit for Alexa](https://github.com/PhilipZubel/IndividualProject/issues/8)
 
 ### 08 Oct 2022
 * *2 hours* - read research paper [Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs](https://github.com/PhilipZubel/IndividualProject/issues/5)
@@ -40,12 +40,11 @@
 ### 10 Oct 2022
 * *1 hour* - read research paper [QA-GNN: Reasoning with LM and KG for Question Answering](https://github.com/PhilipZubel/IndividualProject/issues/9)
 
-
 ### 12 Oct 2022
 * *2.5 hours* - [team meeting](https://github.com/PhilipZubel/IndividualProject/issues/4) 
 
 ### 13 Oct 2022
-* *1 hour* - meeting with Jeff
+* *1 hour* - [meeting](https://github.com/PhilipZubel/IndividualProject/issues/11) with Jeff 
 
 ### 14 Oct 2022
-* *1 hour* - team  meeting
+* *1 hour* - [team  meeting](https://github.com/PhilipZubel/IndividualProject/issues/11)
