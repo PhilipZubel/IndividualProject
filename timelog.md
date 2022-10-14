@@ -43,3 +43,9 @@
 
 ### 12 Oct 2022
 * *2.5 hours* - [team meeting](https://github.com/PhilipZubel/IndividualProject/issues/4) 
+
+### 13 Oct 2022
+* *1 hour* - meeting with Jeff
+
+### 14 Oct 2022
+* *1 hour* - team  meeting
