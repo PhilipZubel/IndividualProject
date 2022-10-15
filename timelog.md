@@ -47,4 +47,7 @@
 * *1 hour* - [meeting](https://github.com/PhilipZubel/IndividualProject/issues/11) with Jeff 
 
 ### 14 Oct 2022
-* *1 hour* - [team  meeting](https://github.com/PhilipZubel/IndividualProject/issues/11)
+* *1.5 hour* - [team  meeting](https://github.com/PhilipZubel/IndividualProject/issues/11)
+
+### 15 Oct 2022
+* *1 hour* - found sample of the pdf and started playing around with reading the text from it
