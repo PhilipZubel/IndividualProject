@@ -51,3 +51,6 @@
 
 ### 15 Oct 2022
 * *1 hour* - found sample of the pdf and started playing around with reading the text from it
+
+### 15 Oct 2022
+* *1.5 hours* - parsed main page from the substitute book
