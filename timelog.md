@@ -54,3 +54,6 @@
 
 ### 15 Oct 2022
 * *1.5 hours* - parsed main page from the substitute book
+
+### 18 Oct 2022
+* *1.5 hours* - team meeting regarding fixing dependency versions
