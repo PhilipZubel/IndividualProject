@@ -58,5 +58,9 @@
 ### 18 Oct 2022
 * *1.5 hours* - team meeting regarding fixing dependency versions
 
-### 20 Oct 2022
+### 21 Oct 2022
 * *2 hours* - team meeting regarding regarding dashboard overview
+* *1 hour* - set up Alexa Echo device
+
+### 22 Oct 2022
+* *1 hour* - tested current Grillbot TaskBot and identified issues
