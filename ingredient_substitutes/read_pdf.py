@@ -1,5 +1,7 @@
 from curses.ascii import isupper
+from tracemalloc import start
 import PyPDF2
+import re
 
 FILE_PATH = 'book.pdf'
 
@@ -18,7 +20,9 @@ class PageReader:
     def extract_descriptions(self):
         lines = self.text.split('\n')
         # remove ingredients which are redirected to a different ingredient
-        redirections_list = [l for l in lines if "See" in l and "." and l.replace("See","").replace(".","").isupper()]
+        # issue with double lined ingredients e.g. AFRICAN HORNED CUCUMBER
+        redirections_list = [l for l in lines if "See" in l and l.replace("See ","").split(" ")[0].isupper()]
+        print(redirections_list)
         for item in redirections_list:
             lines.remove(item)
             item_from = item[ : item.find("See")-1].rstrip().lower()
@@ -30,6 +34,8 @@ class PageReader:
             ingredient_name = lines[start_idx].lower()
             unfiltered_description = "".join(lines[start_idx + 1 : end_idx])
             categories = unfiltered_description.split("SUBSTITUTE ")
+            if(len(categories) < 2):
+                print(unfiltered_description)
             definition, substitute = categories[0], categories[1]
             substitutes = substitute.replace("\xa0g","g").replace("\xa0lb", "lb").replace("\xa0oz", "oz").lstrip()
             split_substitute_what_from_idx = substitutes.find("with")
@@ -75,9 +81,40 @@ class BookReader:
         return self.fileReader.pages[pageNum]
 
 class PageIterator:
-    pass
+    book = None
+    start = None
+    end = None
+    redirections = {}
+    ingredients = {}
+    
+    def __init__(self, book, startPage, endPage):
+        self.book = book
+        self.start = startPage
+        self.end = endPage
+        self.iteratePages()
+        
+    def iteratePages(self):
+        for pageNum in range(self.start, self.end+1):
+            p_reader = PageReader(book.get_page(pageNum))
+            self.redirections.update(p_reader.redirections)
+            self.ingredients.update(p_reader.ingredients)
+
 
 book = BookReader(FILE_PATH)
-page_6 = book.get_page(6)
+# it = PageIterator(book, 6, 8)
+page_6 = book.get_page(8)
 p = PageReader(page_6)
-print(p.ingredients)
+# print(it.ingredients["ababai"])
+
+import csv
+csv_columns = ["ingredient", "definition", "substitute_what" , "substitute_with"]
+
+f_name = "ingredient_substitutes.csv"
+with open(f_name, "w") as f:
+    writer = csv.DictWriter(f, fieldnames=csv_columns)
+    writer.writeheader()
+    # print(it.ingredients.items)
+    for key, data in it.ingredients.items():
+        f_row = data.copy()
+        f_row["ingredient"] = key
+        writer.writerow(f_row)
