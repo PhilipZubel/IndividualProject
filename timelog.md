@@ -67,7 +67,7 @@
 
 ### 24 Oct 2022
 * *0.5 hour* - [meeting](https://github.com/PhilipZubel/IndividualProject/wiki/Minutes-3---23-Oct-2022) with Jeff
-* *1 hour* - read paper
+* *1 hour* - read research paper [Search Quality Evaluator Guidelines](https://github.com/PhilipZubel/IndividualProject/issues/12)
 
 ### 25 Oct 2022
 * *1 hour* - team meeting regarding system worflow
