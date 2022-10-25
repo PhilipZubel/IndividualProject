@@ -64,3 +64,13 @@
 
 ### 22 Oct 2022
 * *1 hour* - tested current Grillbot TaskBot and identified issues
+
+### 24 Oct 2022
+* *0.5 hour* - [meeting](https://github.com/PhilipZubel/IndividualProject/wiki/Minutes-3---23-Oct-2022) with Jeff
+* *1 hour* - read paper
+
+### 25 Oct 2022
+* *1 hour* - team meeting regarding system worflow
+* *1.5 hours* - meeting with Iain regarding current taskgraph generation and search as well as future outline of the project
+
+
