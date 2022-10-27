@@ -73,4 +73,7 @@
 * *1 hour* - team meeting regarding system worflow
 * *1.5 hours* - meeting with Iain regarding current taskgraph generation and search as well as future outline of the project
 
+### 27 Oct 2022
+* *3 hours* - redo environment setup with greater storage, figured out how to use Jira and completed the first issue
+
 
