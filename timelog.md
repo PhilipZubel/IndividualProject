@@ -1,6 +1,6 @@
 # Timelog
 
-* PROJECT NAME: Alexa Taskbot Challenge 2
+* PROJECT NAME: 
 * NAME: Philip Zubel
 * STUDENT ID: 2479229z
 * SUPERVISOR NAME: Jeff Dalton
@@ -74,6 +74,7 @@
 * *1.5 hours* - meeting with Iain regarding current taskgraph generation and search as well as future outline of the project
 
 ### 27 Oct 2022
-* *3 hours* - redo environment setup with greater storage, figured out how to use Jira and completed the first issue
+* *3 hours* - redone environment setup with greater storage, figured out how to use Jira and completed the first issue
+* *1.5 hours* - read Ch 1 and 2 of Search Engines Information Retrieval in Practice 
 
 
