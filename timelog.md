@@ -82,3 +82,5 @@
 * *3 hours* - read Ch 3 - 5 of Search Engines Information Retrieval in Practice 
 * *1 hour* - improved team proposal 
 
+### 29 Oct 2022
+* *4 hours* - read Ch 6 - 8 of Search Engines Information Retrieval in Practice 
