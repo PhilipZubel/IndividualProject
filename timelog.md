@@ -84,3 +84,5 @@
 
 ### 29 Oct 2022
 * *4 hours* - read Ch 6 - 8 of Search Engines Information Retrieval in Practice 
+* *1 hour* - manual query log analysis
+* *2 hours* - code inspection - preperation for presentation - search in current system
