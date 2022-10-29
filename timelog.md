@@ -77,4 +77,8 @@
 * *3 hours* - redone environment setup with greater storage, figured out how to use Jira and completed the first issue
 * *1.5 hours* - read Ch 1 and 2 of Search Engines Information Retrieval in Practice 
 
+### 28 Oct 2022
+* *1.5 hours* - team meeting 
+* *3 hours* - read Ch 3 - 5 of Search Engines Information Retrieval in Practice 
+* *1 hour* - improved team proposal 
 
