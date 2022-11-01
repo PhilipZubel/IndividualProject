@@ -85,4 +85,16 @@
 ### 29 Oct 2022
 * *4 hours* - read Ch 6 - 8 of Search Engines Information Retrieval in Practice 
 * *1 hour* - manual query log analysis
-* *2 hours* - code inspection - preperation for presentation - search in current system
+* *2 hours* - code inspection - preperation for team presentation - search in current system
+
+### 01 Nov 2022
+* *1 hour* - worked on proposal again
+* *2 hours* - intial work on task representation guidelines
+
+### 02 Nov 2022
+* *0.5 hour* - created presentation for advisor meeting
+* *2 hours* - finalised first draft of task representation guidelines
+* *1 hour* - team meeting mainly regarding overview of main system workflows/issue grouping
+* *1 hour* - meeting with Carlos about goals for Friday / issue management & generation
+* *1 hour* - cut down words/finalised proposal
+
