@@ -98,3 +98,7 @@
 * *1 hour* - meeting with Carlos about goals for Friday / issue management & generation
 * *1 hour* - cut down words/finalised proposal
 
+## 04 Nov 2022
+
+* *1 hour* - advisor meeting #4
+* *0.5 hour* - reviewed merge request
