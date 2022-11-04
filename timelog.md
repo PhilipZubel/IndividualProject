@@ -103,4 +103,7 @@
 * *0.5 hour* - reviewed merge request
 
 ## 03 Nov 2022
-* *4 hours* - advisor meeting #4created empty docker container for testing search in the current system
+* *4 hours* - created empty docker container for testing search in the current system
+
+## 04 Nov 2022
+* *1 hour* - weekly team meeting 
