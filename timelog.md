@@ -1,6 +1,6 @@
 # Timelog
 
-* PROJECT NAME: Alexa Taskbot Challenge 2
+* PROJECT NAME: The effectiveness of Task Representations and the transformation & analysis of query-based Task Searching.
 * NAME: Philip Zubel
 * STUDENT ID: 2479229z
 * SUPERVISOR NAME: Jeff Dalton
@@ -64,3 +64,46 @@
 
 ### 22 Oct 2022
 * *1 hour* - tested current Grillbot TaskBot and identified issues
+
+### 24 Oct 2022
+* *0.5 hour* - [meeting](https://github.com/PhilipZubel/IndividualProject/wiki/Minutes-3---23-Oct-2022) with Jeff
+* *1 hour* - read research paper [Search Quality Evaluator Guidelines](https://github.com/PhilipZubel/IndividualProject/issues/12)
+
+### 25 Oct 2022
+* *1 hour* - team meeting regarding system worflow
+* *1.5 hours* - meeting with Iain regarding current taskgraph generation and search as well as future outline of the project
+
+### 27 Oct 2022
+* *3 hours* - redone environment setup with greater storage, figured out how to use Jira and completed the first issue
+* *1.5 hours* - read Ch 1 and 2 of Search Engines Information Retrieval in Practice 
+
+### 28 Oct 2022
+* *1.5 hours* - team meeting 
+* *3 hours* - read Ch 3 - 5 of Search Engines Information Retrieval in Practice 
+* *1 hour* - improved team proposal 
+
+### 29 Oct 2022
+* *4 hours* - read Ch 6 - 8 of Search Engines Information Retrieval in Practice 
+* *1 hour* - manual query log analysis
+* *2 hours* - code inspection - preperation for team presentation - search in current system
+
+### 31 Nov 2022
+* *1 hour* - worked on proposal again
+* *2 hours* - intial work on task representation guidelines
+
+### 01 Nov 2022
+* *0.5 hour* - created presentation for advisor meeting
+* *2 hours* - finalised first draft of task representation guidelines
+* *1 hour* - team meeting mainly regarding overview of main system workflows/issue grouping
+* *1 hour* - meeting with Carlos about goals for Friday / issue management & generation
+* *1 hour* - cut down words/finalised proposal
+
+## 02 Nov 2022
+* *1 hour* - advisor meeting #4
+* *0.5 hour* - reviewed merge request
+
+## 03 Nov 2022
+* *4 hours* - created empty docker container for testing search in the current system
+
+## 04 Nov 2022
+* *1 hour* - weekly team meeting 
