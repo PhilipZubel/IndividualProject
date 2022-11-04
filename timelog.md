@@ -87,18 +87,20 @@
 * *1 hour* - manual query log analysis
 * *2 hours* - code inspection - preperation for team presentation - search in current system
 
-### 01 Nov 2022
+### 31 Nov 2022
 * *1 hour* - worked on proposal again
 * *2 hours* - intial work on task representation guidelines
 
-### 02 Nov 2022
+### 01 Nov 2022
 * *0.5 hour* - created presentation for advisor meeting
 * *2 hours* - finalised first draft of task representation guidelines
 * *1 hour* - team meeting mainly regarding overview of main system workflows/issue grouping
 * *1 hour* - meeting with Carlos about goals for Friday / issue management & generation
 * *1 hour* - cut down words/finalised proposal
 
-## 04 Nov 2022
-
+## 02 Nov 2022
 * *1 hour* - advisor meeting #4
 * *0.5 hour* - reviewed merge request
+
+## 03 Nov 2022
+* *4 hours* - advisor meeting #4created empty docker container for testing search in the current system
