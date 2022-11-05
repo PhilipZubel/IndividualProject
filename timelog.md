@@ -114,3 +114,4 @@
 * *3 hours* - finished book (Ch 10-11) [Search Engines Information Retrieval in Practice](https://github.com/PhilipZubel/IndividualProject/issues/15)
 * *3 hours* - debugged Docker tester container dependencies with logging
 * *2.5 hours* - debugged why search returns no results and nicely printed results
+* *3 hours* - intial draft of search documentation
