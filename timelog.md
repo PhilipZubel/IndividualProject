@@ -109,3 +109,6 @@
 * *1 hour* - weekly team meeting
 * *1.5 hours* - read Ch 9 of Search Engines Information Retrieval in Practice 
 * *5 hours* - understood protobuffs, how docker containers are linked together, how queries are generated and wrote a script which uses a simple query to return a taskmap of results (needs to be further tested)
+
+## 05 Nov 2022
+* *3 hours* - debugged Docker tester container dependencies with logging
