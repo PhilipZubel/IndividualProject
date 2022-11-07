@@ -118,3 +118,4 @@
 
 ## 07 Nov 2022
 * *1 hour* - meeting with Iain discussing dataset creation and code overview for search
+* *1 hour* - review & approve QA ticket
