@@ -115,3 +115,6 @@
 * *3 hours* - debugged Docker tester container dependencies with logging
 * *2.5 hours* - debugged why search returns no results and nicely printed results
 * *3 hours* - intial draft of search documentation
+
+## 07 Nov 2022
+* *1 hour* - meeting with Iain discussing dataset creation and code overview for search
