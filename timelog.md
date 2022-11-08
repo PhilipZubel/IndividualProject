@@ -133,3 +133,5 @@
 
 ## 08 Nov 2022
 * *1.5 hours* - read Ch2 of [Pretrained Transformers for Text Ranking: BERT and Beyond](https://github.com/PhilipZubel/IndividualProject/issues/13) and redefined guidelines based on the reading
+* *1 hour* - team meeting
+* *1 hour* - basic introduction to off-line pipeline overview with Sophie
