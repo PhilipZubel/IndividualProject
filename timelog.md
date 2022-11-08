@@ -37,6 +37,8 @@
 ### 09 Oct 2022
 * *1 hour* - read research paper [What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision](https://github.com/PhilipZubel/IndividualProject/issues/7)
 
+## Week 4
+
 ### 10 Oct 2022
 * *1 hour* - read research paper [QA-GNN: Reasoning with LM and KG for Question Answering](https://github.com/PhilipZubel/IndividualProject/issues/9)
 
@@ -55,6 +57,8 @@
 ### 15 Oct 2022
 * *1.5 hours* - parsed main page from the substitute book
 
+## Week 5
+
 ### 18 Oct 2022
 * *1.5 hours* - team meeting regarding fixing dependency versions
 
@@ -64,6 +68,8 @@
 
 ### 22 Oct 2022
 * *1 hour* - tested current Grillbot TaskBot and identified issues
+
+## Week 6
 
 ### 24 Oct 2022
 * *0.5 hour* - [meeting](https://github.com/PhilipZubel/IndividualProject/wiki/Minutes-3---23-Oct-2022) with Jeff
@@ -86,6 +92,8 @@
 * *4 hours* - read Ch 6 - 8 of Search Engines Information Retrieval in Practice 
 * *1 hour* - manual query log analysis
 * *2 hours* - code inspection - preperation for team presentation - search in current system
+
+## Week 7
 
 ### 31 Nov 2022
 * *1 hour* - worked on proposal again
@@ -116,7 +124,12 @@
 * *2.5 hours* - debugged why search returns no results and nicely printed results
 * *3 hours* - intial draft of search documentation
 
+## Week 8
+
 ## 07 Nov 2022
 * *1 hour* - meeting with Iain discussing dataset creation and code overview for search
 * *1 hour* - review & approve QA ticket
 * *1 hour* - created Guidelines picture and made edits
+
+## 08 Nov 2022
+* *1.5 hours* - read Ch2 of [Pretrained Transformers for Text Ranking: BERT and Beyond](https://github.com/PhilipZubel/IndividualProject/issues/13) and redefined guidelines based on the reading
