@@ -135,3 +135,8 @@
 * *1.5 hours* - read Ch2 of [Pretrained Transformers for Text Ranking: BERT and Beyond](https://github.com/PhilipZubel/IndividualProject/issues/13) and redefined guidelines based on the reading
 * *1 hour* - team meeting
 * *1 hour* - basic introduction to off-line pipeline with Sophie
+
+## 09 Nov 2022
+* *1 hour* - off-line pipeline exploration with Niklas
+* *1 hour* - trec_eval exploration + slides presentation
+* *1 hour* - searcher documentation continued 
