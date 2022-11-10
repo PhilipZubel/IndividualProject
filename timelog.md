@@ -140,3 +140,7 @@
 * *1 hour* - off-line pipeline exploration with Niklas
 * *1 hour* - trec_eval exploration + slides presentation
 * *1 hour* - searcher documentation continued 
+
+## 10 Nov 2022
+* *1 hour* - advisor meeting #5
+* *2 hours* - queried existing index in the system - isolated searcher from existing system
