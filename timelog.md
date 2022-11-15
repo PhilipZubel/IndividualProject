@@ -144,3 +144,20 @@
 ## 10 Nov 2022
 * *1 hour* - advisor meeting #5
 * *2 hours* - queried existing index in the system - isolated searcher from existing system
+
+## 11 Nov 2022
+* *1 hour* - team standup meeting
+
+## 12 Nov 2022
+* *3 hours* - debugging (not finished) the taskmap_generation container since I can't run it with OAT
+
+## Week 9
+
+## 14 Nov 2022
+* *2 hours* - managed to run the common_crawl and create compressed taskmap representatinons with common_crawl with Niklas
+* *3 hours* - separated taskmap_generation from OAT and managed to run and build the index locally
+
+## 15 Nov 2022
+* *1 hour* - offline pipeline discussions/planning with Niklas, Carlos, Federico and Sophie
+* *1 hour* - team standup meeting
+
