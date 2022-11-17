@@ -161,3 +161,12 @@
 * *1 hour* - offline pipeline discussions/planning with Niklas, Carlos, Federico and Sophie
 * *1 hour* - team standup meeting
 
+## 16 Nov 2022
+* *2.5 hours* - craeted jupyter notebook (with all loaded dependencies) where I can build a local index and query it in one place (everything regarding html extraction is removed)
+
+## 17 Nov 2022
+* *0.5 hours* - advisor meeting #6
+
+
+
+
