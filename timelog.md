@@ -167,6 +167,14 @@
 ## 17 Nov 2022
 * *0.5 hours* - advisor meeting #6
 
+## 18 Nov 2022
+* *1 hour* - team meeting
+
+## 19 Nov 2022
+* *3 hours* - building simple marqo index
+* *2 hours* - README installation guide + figuring out ir-meaures and qrels
+* *1 hour* - debugged unicode box character issue
+
 
 
 
