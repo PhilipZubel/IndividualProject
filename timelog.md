@@ -175,6 +175,14 @@
 * *2 hours* - README installation guide + figuring out ir-meaures and qrels
 * *1 hour* - debugged unicode box character issue
 
+## 20 Nov 2022
+* *1.5 hours* - documentation for taskgraph_generation
+
+## Week 10
+
+## 21 Nov 2022
+* *1.5 hours* - fixed running qrels and made a list of components to instantiate in the tester container
+
 
 
 
