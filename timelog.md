@@ -183,6 +183,12 @@
 ## 21 Nov 2022
 * *1.5 hours* - fixed running qrels and made a list of components to instantiate in the tester container
 
+## 22 Nov 2022
+* *1 hour* - team meeting
+
+## 22 Nov 2022
+* *1 hour* - offline pipeline meeting
+* *1.5 hours* - looked at search evaluation metrics, cleaned up personal repo, created slides
 
 
 
