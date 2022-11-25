@@ -188,7 +188,17 @@
 
 ## 22 Nov 2022
 * *1 hour* - offline pipeline meeting
+
+## 23 Nov 2022
 * *1.5 hours* - looked at search evaluation metrics, cleaned up personal repo, created slides
+
+## 24 Nov 2022
+* *0.5 hours* - advisor meeting #7
+
+## 25 Nov 2022
+* *1 hour* - team meeting
+* *7.5 hours* - offline pipeline - from urls -> html -> doc protos -> tasgraphs stages completed
+
 
 
 
