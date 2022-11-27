@@ -199,6 +199,7 @@
 * *1 hour* - team meeting
 * *7.5 hours* - offline pipeline - from urls -> html -> doc protos -> tasgraphs stages completed
 
-
+## 27 Nov 2022
+* *1.5 hour* - query dense Pyserini index
 
 
