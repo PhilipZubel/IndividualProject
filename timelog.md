@@ -201,5 +201,6 @@
 
 ## 27 Nov 2022
 * *1.5 hour* - query dense Pyserini index
+* *2 hours* - added new fields to marqo index and created filter queries
 
 
