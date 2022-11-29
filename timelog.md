@@ -204,4 +204,11 @@
 * *2 hours* - added new fields to marqo index and created filter queries
 * *3 hours* - finished offline pipeline ticket for this week
 
+## Week 11
 
+## 28 Nov 2022
+* *3 hours* - offline pipeline meeting + refactoring html proto and reducing legacy of document.proto
+
+## 29 Nov 2022
+* *1 hour* - team meeting
+* *1.5 hours* - ...
