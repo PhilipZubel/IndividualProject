@@ -211,4 +211,14 @@
 
 ## 29 Nov 2022
 * *1 hour* - team meeting
-* *1.5 hours* - ...
+
+## 01 Dec 2022
+* *0.5 hours* - advisor meeting 
+* *1 hour* - documentation for offline pipeline
+
+## 02 Dec 2022
+* *1 hour* - team meeting 
+* *2 hours* - query dataset for cooking
+
+## 03 Dec 2022
+* *3 hours* - query dataset for DYI
