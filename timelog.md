@@ -222,3 +222,21 @@
 
 ## 03 Dec 2022
 * *3 hours* - query dataset for DYI
+* *4 hours* - read Ch1, Ch3 of [Pretrained Transformers for Text Ranking: BERT and Beyond](https://github.com/PhilipZubel/IndividualProject/issues/13)
+
+## 04 Dec 2022
+* *5 hours* - read Ch4, Ch5 of [Pretrained Transformers for Text Ranking: BERT and Beyond](https://github.com/PhilipZubel/IndividualProject/issues/13)
+* *1 hour* - read [Document Ranking with a Pretrained
+Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
+
+## Week 12
+
+## 05 Dec 2022
+* *6 hours* - set up pyggagle dependencies and managed to run BM25 + T5 reranking
+* *2 hours* - add configuration files to 
+
+## 06 Dec 2022
+* *1 hour* - team meeting
+* *4 hours* - set up recipe1mln parsers and taskgraph converters and save them to binaries so they can be used to generate the previously built indexes
+
+
