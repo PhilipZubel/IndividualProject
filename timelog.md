@@ -233,10 +233,12 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 
 ## 05 Dec 2022
 * *6 hours* - set up pyggagle dependencies and managed to run BM25 + T5 reranking
-* *2 hours* - add configuration files to 
+* *2 hours* - add configuration files to offline pipeline
 
 ## 06 Dec 2022
 * *1 hour* - team meeting
 * *4 hours* - set up recipe1mln parsers and taskgraph converters and save them to binaries so they can be used to generate the previously built indexes
 
+## 06 Dec 2022
+* *4 hours* - created index in the offline pipeline and synced it with internal oat to see the taskgraphs on the local device
 
