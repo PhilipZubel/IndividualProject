@@ -251,5 +251,6 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 11 Dec 2022
 * *3 hours* - integrated wikihow parsers
 
-
+## 12 Dec 2022
+* *6 hours* - refactored offline pipeline in order to accomodate easy changes via the configuration file + small bugs
 
