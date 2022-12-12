@@ -239,6 +239,17 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *1 hour* - team meeting
 * *4 hours* - set up recipe1mln parsers and taskgraph converters and save them to binaries so they can be used to generate the previously built indexes
 
-## 06 Dec 2022
+## 07 Dec 2022
 * *4 hours* - created index in the offline pipeline and synced it with internal oat to see the taskgraphs on the local device
+
+## 08 Dec 2022
+* *0.5 hours* - advisor meeting
+
+## 09 Dec 2022
+* *0.5 hours* - team meeting
+
+## 11 Dec 2022
+* *3 hours* - integrated wikihow parsers
+
+
 
