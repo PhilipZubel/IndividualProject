@@ -263,6 +263,6 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *1 hour* - midterm report
 * *3 hours* - automated annotation selection and created example of expected input for the Turkers
 * *2 hours* - relevance judgments annotations for recipes
-* *???* - first results
+* *3 hours* - automated qrles results for bm25, bm25+rm3, bm25+t5, bm25+rm3+t5 for recipes
 
 
