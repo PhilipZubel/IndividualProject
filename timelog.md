@@ -254,15 +254,19 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 12 Dec 2022
 * *6 hours* - refactored offline pipeline in order to accomodate easy changes via the configuration file + small bugs
 
-## 13 Dev 2022
+## 13 Dec 2022
 * *2 hours* - midterm report
 * *1.5 hours* - team meeting
 * *4 hours* - downloaded the proper recipe1M+ dataset and built an index with it (added batch processing and dealt with duplicate recipes bug)
 
-## 14 Dev 2022
+## 14 Dec 2022
 * *1 hour* - midterm report
 * *3 hours* - automated annotation selection and created example of expected input for the Turkers
 * *2 hours* - relevance judgments annotations for recipes
 * *3 hours* - automated qrles results for bm25, bm25+rm3, bm25+t5, bm25+rm3+t5 for recipes
 
+## 15 Dec 2022
+* *1 hour* - advisor meeting
+* *1 hour* - adjusted midterm report
+* *4 hours* - deleted taskgraph from index and storing it seperately as an artifact
 
