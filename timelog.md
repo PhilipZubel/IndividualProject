@@ -270,3 +270,6 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *1 hour* - adjusted midterm report
 * *4 hours* - deleted taskgraph from index and storing it seperately as an artifact
 
+## 16 Dec 2022
+* *1 hour* - team meeting
+* *0.5 hours* - Andrew meeting about structuring upload and download of offline pipeline artifacts
