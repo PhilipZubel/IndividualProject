@@ -273,3 +273,10 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 16 Dec 2022
 * *1 hour* - team meeting
 * *0.5 hours* - Andrew meeting about structuring upload and download of offline pipeline artifacts
+
+## 17 Dec 2022
+* *3 hour* - saved taskmaps in offline pipeline as a proto in a single binary files rather than jsonl dictionaries   
+
+## 18 Dec 2022
+* *3 hours* - figured out permissions for google buckets and wrote bash script for uploading offline artefacts 
+* *2 hour* - wrote script for downloading offline artefacts
