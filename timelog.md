@@ -280,3 +280,7 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 18 Dec 2022
 * *3 hours* - figured out permissions for google buckets and wrote bash script for uploading offline artefacts 
 * *2 hour* - wrote script for downloading offline artefacts
+
+## 19 Dec 2022
+* *2.5 hours* - zipping and unzipping during upload/download
+* *0.5 hour* - discussion around taskgraph visualization
