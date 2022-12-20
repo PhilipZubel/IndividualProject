@@ -284,3 +284,7 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 19 Dec 2022
 * *2.5 hours* - zipping and unzipping during upload/download
 * *0.5 hour* - discussion around taskgraph visualization
+
+## 20 Dec 2022
+* *2 hours* - demo preperation/resolved minor bugs
+* *1 hour* - team meeting
