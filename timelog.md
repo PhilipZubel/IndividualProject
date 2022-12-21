@@ -288,3 +288,8 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 20 Dec 2022
 * *2 hours* - demo preperation/resolved minor bugs
 * *1 hour* - team meeting
+
+## 21 Dec 2022
+* *8 hours* - refactored code until now - created classes for each dataset and pipelines for each tested model which also accounts for the dataset types
+* *1 hour* - amazon meeting regarding training bootcamp
+
