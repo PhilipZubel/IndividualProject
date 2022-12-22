@@ -293,3 +293,7 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *8 hours* - refactored code until now - created classes for each dataset and pipelines for each tested model which also accounts for the dataset types
 * *1 hour* - amazon meeting regarding training bootcamp
 
+## 22 Dec 2022
+* *2 hours* - built ance index with food and diy
+* *6 hour* - redone 50 cooking queries which pass the requirements
+
