@@ -295,9 +295,9 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 
 ## 22 Dec 2022
 * *2 hours* - built ance index with food and diy
-* *6 hour* - redone 50 cooking queries which pass the requirements
+* *6 hours* - redone 50 cooking queries which pass the requirements
 * *1 hour* - created upload/download scripts for offline storage
 
-## 22 Dec 2022
-* *2 hour* - tested and debugged upload/download scripts for offline storage
-* *2 hour* - redefined annotation guideleines for relevance, usability and quality
+## 23 Dec 2022
+* *2 hours* - tested and debugged upload/download scripts for offline storage
+* *2 hours* - redefined annotation guideleines for relevance, usability and quality
