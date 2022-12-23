@@ -300,3 +300,4 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 
 ## 22 Dec 2022
 * *2 hour* - tested and debugged upload/download scripts for offline storage
+* *2 hour* - redefined annotation guideleines for relevance, usability and quality
