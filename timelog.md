@@ -307,3 +307,7 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 
 ## 27 Dec 2022
 * *6 hours* - rewritten marqo indexes to accomodate the full diy and recipe1mln+ corpora but running into bugs
+
+## 28 Dec 2022
+* *1.5 hours* - troubleshooting marqo
+* *2 hours* - implemented ColBERT dense retrieval index
