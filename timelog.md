@@ -311,3 +311,4 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 28 Dec 2022
 * *1.5 hours* - troubleshooting marqo
 * *2 hours* - implemented ColBERT dense retrieval index
+* *4 hours* - created query preprocessing pipeline and tested on cooking queries
