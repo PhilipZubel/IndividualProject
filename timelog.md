@@ -304,3 +304,6 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 
 ## 26 Dec 2022
 * *4 hours* - made the DIY queries more precise so that searcher retrieves mixed results
+
+## 27 Dec 2022
+* *6 hours* - rewritten marqo indexes to accomodate the full diy and recipe1mln+ corpora but running into bugs
