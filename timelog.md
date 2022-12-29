@@ -316,3 +316,4 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 29 Dec 2022
 * *3 hours* - fixed pipeline for DIYs and automated the pipeline
 * *2 hours* - fixed pyserini dense bug where taskgraph cannot be loaded from search object
+* *1.5 hours* - wrote section about query preprocessing
