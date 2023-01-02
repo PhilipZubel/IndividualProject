@@ -324,3 +324,7 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 01 Jan 2023
 * *3 hours* - decided on the structure of the dissertation
 * *4 hours* - redid the transfer scripts to Google Bucket and wrote section in the dissertaion about it
+
+## 02 Jan 2023
+* *3 hours* - debugged issue with linking steps in the wikihow taskgraphs
+
