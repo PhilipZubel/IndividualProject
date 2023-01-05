@@ -328,3 +328,13 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 02 Jan 2023
 * *3 hours* - debugged issue with linking steps in the wikihow taskgraphs
 
+## 02 Jan 2023
+* *1 hour* - meeting with Iain
+* *2 hours* - created annotations for bm25 
+
+## 05 Jan 2023
+* *6 hour* - debugged marqo index + built DIY index
+
+## 05 Jan 2023
+* *2 hour* - ranked food queries
+* *2 hour* - wrote disseration query section
