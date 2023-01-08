@@ -336,5 +336,15 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *6 hour* - debugged marqo index + built DIY index
 
 ## 05 Jan 2023
-* *2 hour* - ranked food queries
-* *2 hour* - wrote disseration query section
+* *2 hours* - ranked food queries
+* *2 hours* - wrote disseration query section
+
+## 06 Jan 2023
+* *1 hour* - weekly meeting
+
+## 07 Jan 2023
+* *4 hours* - defined criteria for DIY and Cooking domains
+
+## 08 Jan 2023
+* *3 hours* - judged DIY queries based on criteria
+* *2 hours* - defined 10 more cooking queries that follow the criteria 
