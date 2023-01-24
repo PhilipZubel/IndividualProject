@@ -348,3 +348,28 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 08 Jan 2023
 * *3 hours* - judged DIY queries based on criteria
 * *2 hours* - defined 10 more cooking queries that follow the criteria 
+
+## 09 Jan 2023
+* *6 hours* - finished cooking queries
+
+## 16 Jan 2023
+* *1 hours* - team meeting
+
+## 18 Jan 2023
+* *3 hours* - created wireframes for task viewer
+* *4 hours* - redefined relevance criteria
+
+## 19 Jan 2023
+* *1 hour* - meeting
+* 
+## 21 Jan 2023
+* *8 hour* - built task viewer
+
+## 22 Jan 2023
+* *4 hours* - separated index in the offline pipeline
+* *3 hours* - dissertation writing
+
+## 23 Jan 2023
+* *4 hours* - team meeting
+* *1 hour* - dissertation writing
+
