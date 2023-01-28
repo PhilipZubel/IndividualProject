@@ -370,6 +370,22 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *3 hours* - dissertation writing
 
 ## 23 Jan 2023
-* *4 hours* - team meeting
-* *1 hour* - dissertation writing
+* *1 hours* - team meeting
+* *4 hour* - dissertation writing
+
+## 24 Jan 2023
+* *3 hours* - fix uzipping and synchronization
+
+## 25 Jan 2023
+* *6 hours* - tried setting up GPU -> incompatible drivers
+
+## 26 Jan 2023
+* *1 hours* - team meeting
+* *0.5 hour* - advisor meeting
+* *4 hour* - recreated environment on GPU and debugged the drivers issue
+
+## 27 Jan 2023
+* *4 hour* - unsuccessful index building due to threading error that randomly occured during the indexing
+* *3 hour* - finally managed to have the marqo indexes built on a GPU and save its corresponding docker image
+
 
