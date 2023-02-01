@@ -370,8 +370,8 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *3 hours* - dissertation writing
 
 ## 23 Jan 2023
-* *1 hours* - team meeting
-* *4 hour* - dissertation writing
+* *1 hour* - team meeting
+* *4 hours* - dissertation writing
 
 ## 24 Jan 2023
 * *3 hours* - fix uzipping and synchronization
@@ -382,10 +382,29 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 26 Jan 2023
 * *1 hours* - team meeting
 * *0.5 hour* - advisor meeting
-* *4 hour* - recreated environment on GPU and debugged the drivers issue
+* *4 hours* - recreated environment on GPU and debugged the drivers issue
 
 ## 27 Jan 2023
-* *4 hour* - unsuccessful index building due to threading error that randomly occured during the indexing
-* *3 hour* - finally managed to have the marqo indexes built on a GPU and save its corresponding docker image
+* *4 hours* - unsuccessful index building due to threading error that randomly occured during the indexing
+* *3 hours* - finally managed to have the marqo indexes built on a GPU and save its corresponding docker image
 
+## 28 Jan 2023
+* *3 hours* - set up annotation pipeline/ minorbugs
+* *6 hours* - annotate DIY judgments
 
+## 29 Jan 2023
+* *8 hours* - built task viewer for visualizing a taskgraph
+
+## 29 Jan 2023
+* *1 hour* - team meeting
+* *5 hour* - annotate DIY judgments
+
+## 30 Jan 2023
+* *4 hours* - annotate DIY judgments
+* *1 hours* - visualize DIY topical relevance
+* *2 hours* - played around with dense indexes since they had low accuracy - bug fixed
+
+## 01 Feb 2023
+* *2 hours* - added info to task visualizer
+* *3 hours* - moved dangerous task filter to offline pipeline
+* *1 hour* - tested internal OAT
