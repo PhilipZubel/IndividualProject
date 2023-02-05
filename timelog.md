@@ -408,3 +408,12 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *2 hours* - added info to task visualizer
 * *3 hours* - moved dangerous task filter to offline pipeline
 * *1 hour* - tested internal OAT
+
+## 04 Feb 2023
+* *3 hours* - debugged search in OAT
+* *5 hours* - annotated cooking judgments
+
+## 05 Feb 2023
+* *2 hours* - created precision-recall graph
+* *4 hours* - applied t5 reranker to Colbert and Ance 
+* *2 hours* - dissertation writing
