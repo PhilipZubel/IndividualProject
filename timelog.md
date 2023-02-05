@@ -409,6 +409,10 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *3 hours* - moved dangerous task filter to offline pipeline
 * *1 hour* - tested internal OAT
 
+## 02 Feb 2022
+* *1 hour* - OAT meeting
+* *0.5 hour* - advisor meeting
+
 ## 04 Feb 2023
 * *3 hours* - debugged search in OAT
 * *5 hours* - annotated cooking judgments
