@@ -421,3 +421,27 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *2 hours* - created precision-recall graph
 * *4 hours* - applied t5 reranker to Colbert and Ance 
 * *2 hours* - dissertation writing
+
+## 06 Feb 2023
+* *1 hour* - team meeting
+* *3 hours* - applied and run t5 reranker on marqo model
+
+## 07 Feb 2023
+* *8 hours* - started evaluation for DIY queries
+
+## 08 Feb 2023
+* *1 hour* - oat evaluation + evaluation guidelines
+* *3 hours* - added missing DIY annotations
+
+## 09 Feb 2023
+* *1 hour* - team meeting
+* *0.5 hour* - advisor meeting
+* *2 hours* - annotated some cooking judgments
+
+## 10 Feb 2023
+* *2 hours* - started rerunning offline pipeline + minor bugs/fixes
+
+## 11 Feb 2023
+* *8 hours* - finished DIY analysis
+
+## 12 Feb 2023
