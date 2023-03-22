@@ -32,8 +32,8 @@ I refactored the whole repo to make the implementation OOP rather than having ma
 * **Week 17** I finished annotating cooking judgments and went into more detail with DIY analysis. 
 * **Week 19** I finished analysis of the DIY collection and produced cooking results. I started annotating more since judgments are required for examining fielded retrieval.
 * **Week 20** I optimized BM25 and RM3 models using grid search and made more annotations.  
-* **Week 21** I'm currently half-way through it. I also implemented mean reciprocal rank. I made cooking analysis which in the same way as DIY. I also built the fielded indexes with marqo.
+* **Week 21** I'm currently half-way through the annotations. I also implemented mean reciprocal rank. I made cooking analysis which in the same way as DIY. I also built the fielded indexes with marqo.
 * **Week 22** I made statistical tests and made a fisrt draft of the disseration. 
-* **Week 23 [TERM ENDS]** I mainly Cleaned up the repository and editted the dissertation. I also made the dissertation video. 
+* **Week 23 [TERM ENDS]** I mainly cleaned up the repository and editted the dissertation. I also made the dissertation video. 
 * **Week 24** Dissertation submission deadline and presentations.
 
