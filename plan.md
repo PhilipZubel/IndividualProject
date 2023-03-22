@@ -1,6 +1,6 @@
 # Plan
 
-* Alexa Taskbot Challenge 2
+* GrillBot: Creating a Complex Query Task-Based Dataset and Implementing an Augmented Task Pipeline
 * Philip Zubel
 * 2479229z
 * Jeff Dalton
