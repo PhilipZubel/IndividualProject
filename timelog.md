@@ -1,6 +1,6 @@
 # Timelog
 
-* PROJECT NAME: The effectiveness of Task Representations and the transformation & analysis of query-based Task Searching.
+* PROJECT NAME: GrillBot: Creating a Complex Query Task-Based Dataset and Implementing an Augmented Task Pipeline.
 * NAME: Philip Zubel
 * STUDENT ID: 2479229z
 * SUPERVISOR NAME: Jeff Dalton
