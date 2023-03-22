@@ -327,10 +327,10 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *3 hours* - decided on the structure of the dissertation
 * *4 hours* - redid the transfer scripts to Google Bucket and wrote section in the dissertaion about it
 
-## 02 Jan 2023
-* *3 hours* - debugged issue with linking steps in the wikihow taskgraphs
+## Week 14
 
 ## 02 Jan 2023
+* *3 hours* - debugged issue with linking steps in the wikihow taskgraphs
 * *1 hour* - meeting with Iain
 * *2 hours* - created annotations for bm25 
 
@@ -351,12 +351,12 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *3 hours* - judged DIY queries based on criteria
 * *2 hours* - defined 10 more cooking queries that follow the criteria 
 
-## Week 13
+## Week 15
 
 ## 09 Jan 2023
 * *6 hours* - finished cooking queries
 
-## Week 14
+## Week 16
 
 ## 16 Jan 2023
 * *1 hours* - team meeting
@@ -375,7 +375,7 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *4 hours* - separated index in the offline pipeline
 * *3 hours* - dissertation writing
 
-## Week 15
+## Week 17
 
 ## 23 Jan 2023
 * *1 hour* - team meeting
@@ -403,13 +403,10 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 29 Jan 2023
 * *8 hours* - built task viewer for visualizing a taskgraph
 
-## Week 15
-
-## 29 Jan 2023
-* *1 hour* - team meeting
-* *5 hour* - annotate DIY judgments
+## Week 18
 
 ## 30 Jan 2023
+* *1 hour* - team meeting
 * *4 hours* - annotate DIY judgments
 * *1 hours* - visualize DIY topical relevance
 * *2 hours* - played around with dense indexes since they had low accuracy - bug fixed
@@ -432,7 +429,7 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *4 hours* - applied t5 reranker to Colbert and Ance 
 * *2 hours* - dissertation writing
 
-## Week 16
+## Week 19
 
 ## 06 Feb 2023
 * *1 hour* - team meeting
@@ -458,19 +455,17 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *8 hours* - finished DIY analysis
 
 ## 12 Feb 2023
-* *6 hours* - added hybrid index
-
-## Week 17
-
-## 12 Feb 2023
-* *1 hour* - weekly OAT meeting
 * *5 hours* - Cooking Annotations
 * *3 hours* - check why there are missing tasks in the system's index
 
+## Week 20
+
 ## 13 Feb 2023
+* *1 hour* - weekly OAT meeting
 * *7 hours* - Cooking Annotations
 
 ## 14 Feb 2023
+* *6 hours* - added hybrid index
 * *4.5 hours* - Cooking Annotations
 
 ## 15 Feb 2023
@@ -492,6 +487,8 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *5 hours* - additional cooking annotations (fielded retreival)
 * *3 hours* - cooking analysis
 
+## Week 21
+
 ## 20 Feb 2023
 * *1 hour* - team meeting
 
@@ -511,6 +508,8 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 26 Feb 2023
 * *6 hours* - reworking integration test
 
+## Week 22
+
 ## 27 Feb 2023
 * *1 hour* - team meeting
 * *0.5 hour* - advisor meeting
@@ -527,6 +526,8 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 
 ## 6 Mar 2023
 * *1 hours* - wwekly meeting
+
+## Week 23
 
 ## 7 Mar 2023
 * *4 hours* - writing design
@@ -548,6 +549,8 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * 
 ## 13 Mar 2023
 * *6 hours* - writing implementation
+
+## Week 24
 
 ## 14 Mar 2023
 * *5 hours* - writing implementation
