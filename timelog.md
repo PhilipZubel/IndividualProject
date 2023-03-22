@@ -590,5 +590,5 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *4 hours* - random alexa bugs for skill certification
 * *1 hours* - brush up readme
 
- 
+ Time spent on dissertation - 641.0 hours
 
