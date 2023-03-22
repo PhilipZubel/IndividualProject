@@ -251,6 +251,8 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 11 Dec 2022
 * *3 hours* - integrated wikihow parsers
 
+## Winter break
+
 ## 12 Dec 2022
 * *6 hours* - refactored offline pipeline in order to accomodate easy changes via the configuration file + small bugs
 
@@ -349,8 +351,12 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *3 hours* - judged DIY queries based on criteria
 * *2 hours* - defined 10 more cooking queries that follow the criteria 
 
+## Week 13
+
 ## 09 Jan 2023
 * *6 hours* - finished cooking queries
+
+## Week 14
 
 ## 16 Jan 2023
 * *1 hours* - team meeting
@@ -368,6 +374,8 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 ## 22 Jan 2023
 * *4 hours* - separated index in the offline pipeline
 * *3 hours* - dissertation writing
+
+## Week 15
 
 ## 23 Jan 2023
 * *1 hour* - team meeting
@@ -394,6 +402,8 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 
 ## 29 Jan 2023
 * *8 hours* - built task viewer for visualizing a taskgraph
+
+## Week 15
 
 ## 29 Jan 2023
 * *1 hour* - team meeting
@@ -422,6 +432,8 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 * *4 hours* - applied t5 reranker to Colbert and Ance 
 * *2 hours* - dissertation writing
 
+## Week 16
+
 ## 06 Feb 2023
 * *1 hour* - team meeting
 * *3 hours* - applied and run t5 reranker on marqo model
@@ -440,8 +452,140 @@ Sequence-to-Sequence Model](https://arxiv.org/pdf/2003.06713.pdf)
 
 ## 10 Feb 2023
 * *2 hours* - started rerunning offline pipeline + minor bugs/fixes
+* *4 hours* - diy analysis in progress
 
 ## 11 Feb 2023
 * *8 hours* - finished DIY analysis
 
 ## 12 Feb 2023
+* *6 hours* - added hybrid index
+
+## Week 17
+
+## 12 Feb 2023
+* *1 hour* - weekly OAT meeting
+* *5 hours* - Cooking Annotations
+* *3 hours* - check why there are missing tasks in the system's index
+
+## 13 Feb 2023
+* *7 hours* - Cooking Annotations
+
+## 14 Feb 2023
+* *4.5 hours* - Cooking Annotations
+
+## 15 Feb 2023
+* *4.5 hours* - Cooking Annotations
+
+## 16 Feb 2023
+* *2 hours* - create small report with DIY analysis
+* *1 hour* - OAT meeting
+* *0.5 hour* - advisor meeting
+
+## 17 Feb 2023
+* *7 hours* - additional DIY annotations (fielded retreival)
+* *3 hours* - analysis of DIY tasks (fielded retreival)
+
+## 18 Feb 2023
+* *6 hours* - additional cooking annotations (fielded retreival)
+
+## 19 Feb 2023
+* *5 hours* - additional cooking annotations (fielded retreival)
+* *3 hours* - cooking analysis
+
+## 20 Feb 2023
+* *1 hour* - team meeting
+
+## 21 Feb 2023
+* *5 hour* - implementing cross validation
+
+## 22 Feb 2023
+* *1 hour* - alexa oat evaluations + report
+
+## 23 Feb 2023
+* *1 hour* - team meeting
+* *2 hour* - verify failing list on alexa
+
+## 25 Feb 2023
+* *5 hours* - finished implementing cross validation + testing
+
+## 26 Feb 2023
+* *6 hours* - reworking integration test
+
+## 27 Feb 2023
+* *1 hour* - team meeting
+* *0.5 hour* - advisor meeting
+* *4 hour* - completed cooking analysis
+
+## 1 Mar 2023
+* *4 hours* - completed cooking analysis
+
+## 2 Mar 2023
+* *4 hours* - writing background
+
+## 5 Mar 2023
+* *3 hours* - fished writing background
+
+## 6 Mar 2023
+* *1 hours* - wwekly meeting
+
+## 7 Mar 2023
+* *4 hours* - writing design
+* *5 hours* - fixing start a new task bug
+
+## 8 Mar 2023
+* *7 hours* - fixing start a new task bug
+
+## 9 Mar 2023
+* *1 hour* - team meeting
+* *0.5 hour* - advisor meeting
+* *2 hours* - fixed start a new task bug
+
+## 10 Mar 2023
+* *7 hours* - writing design
+
+## 12 Mar 2023
+* *3 hours* - writing implementation
+* 
+## 13 Mar 2023
+* *6 hours* - writing implementation
+
+## 14 Mar 2023
+* *5 hours* - writing implementation
+
+## 15 Mar 2023
+* *2 hours* - finished implementation
+* *5 hours* - organize evaluation graphs
+
+## 17th Feb 2023
+* *1 hours* - weekly meeting
+
+## 16th March 2023
+* *1 hour* - team meeting
+* *0.5 hours* - advisor meeting
+* *5 hours* - changing background section and change dissertation structure 
+* *1.5 hours* - add OAT dissertation pictures
+
+## 17th March 2023
+* *8 hours* - write evaluation
+
+## 18th March 2023
+* *7 hours* - statistical tests and table formatting
+
+## 19th March 2023
+* *6 hours* - write conclusion, abstract, small editting
+
+## 20th March 2023
+* *5 hours* - refactored filters in the offline pipeline
+
+## 21th March 2023
+* *2 hours* - fix resuming policy
+* *5 hours* - produce readme + clean up repo
+* *2 hours* - dissertation editing
+
+## 22th March 2023
+* *2 hours* - dissertation editing
+* *4 hours* - random alexa bugs for skill certification
+* *1 hours* - brush up readme
+
+ 
+
